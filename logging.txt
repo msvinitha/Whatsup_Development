@@ -2,6 +2,8 @@
 2022-07-30 20:04:11 WARN  PropertyLog4jExample:16 - This is warning
 2022-07-30 20:04:11 ERROR PropertyLog4jExample:17 - This is error
 2022-07-30 20:04:11 FATAL PropertyLog4jExample:18 - This is fatal
+
+
 2022-08-07 19:09:57 INFO  CommonFunctions:34 - Orange HRM test begins
 2022-08-07 19:09:57 INFO  CommonFunctions:35 - Loading the property file
 2022-08-07 19:09:57 INFO  CommonFunctions:44 - Launching chrome
@@ -15,3 +17,4 @@
 2022-08-07 19:10:16 INFO  Test_User_Role:51 - Verify user role
 2022-08-07 19:10:16 INFO  Test_User_Role:53 - Verify status
 2022-08-07 19:10:16 INFO  CommonFunctions:60 - Closing browser
+Modified as version2
