@@ -18,3 +18,6 @@
 2022-08-07 19:10:16 INFO  Test_User_Role:53 - Verify status
 2022-08-07 19:10:16 INFO  CommonFunctions:60 - Closing browser
 Modified as version2
+
+video call feature added
+audio call feature added
